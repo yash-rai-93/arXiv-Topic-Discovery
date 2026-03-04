@@ -1,0 +1,11 @@
+# Ignore the data folder and all its contents
+data/
+
+# Ignore specific large file extensions
+*.json
+*.csv
+*.pkl
+*.zip
+
+# Ignore Kaggle specific output folders if you're syncing
+/kaggle/
