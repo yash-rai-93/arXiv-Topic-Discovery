@@ -28,7 +28,7 @@ Exponential growth in research publications makes manual categorisation impracti
 | **Dataset** | arXiv (Cornell University) via Kaggle |
 | **Subset used** | ~100,000 abstracts (sampled) |
 | **Models** | TF-IDF · LDA · NMF · t-SNE |
-| **Assignment** | NLP Lab — Assignment 1 |
+| **Assignment** | USL Lab — Assignment 1 |
 | **Language** | Python 3.10+ |
 
 ### Pipeline at a glance
