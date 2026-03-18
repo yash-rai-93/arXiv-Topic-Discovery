@@ -1,0 +1,81 @@
+# ============================================================
+#  arXiv Topic Discovery — .gitignore
+# ============================================================
+
+# ── Dataset (too large for GitHub — 3–4 GB) ─────────────────
+data/
+*.json
+*.jsonl
+*.csv
+*.parquet
+*.feather
+*.npz
+*.npy
+
+# ── Saved Models & Artefacts ────────────────────────────────
+models/
+*.pkl
+*.pickle
+*.model
+*.index
+lda_model/
+nmf_model/
+
+# ── Jupyter Notebook Checkpoints ────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ── Python Environment ──────────────────────────────────────
+venv/
+env/
+.env/
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# ── OS & Editor Files ───────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+
+# IDE configs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Logs & Temporary Files ──────────────────────────────────
+*.log
+*.tmp
+*.temp
+logs/
+tmp/
+
+# ── Kaggle API Credentials (never commit these) ─────────────
+kaggle.json
+.kaggle/
+
+# ── Environment Variable Files ──────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ── Generated HTML Outputs (pyLDAvis, etc.) ─────────────────
+*.html
+
+# ── Test & Coverage ─────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
