@@ -1,4 +1,4 @@
-# 🔍 arXiv Topic Discovery — Research Paper Abstract Mining
+# 🔍 ArXiv Topic Discovery — Research Paper Abstract Mining
 
 > **Unsupervised topic modelling on 100 K+ arXiv abstracts using LDA, NMF, TF-IDF, and t-SNE — no labels required.**
 
