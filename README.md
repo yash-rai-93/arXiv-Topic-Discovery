@@ -6,12 +6,13 @@ Exponential growth in research publications makes manual categorisation impracti
 
 ---
 **Project Members-**
+```
 -Yash Rai- BTECH/10502/23
--Tanishk Thakur - BTECH/10502/23
+-Tanishk Thakur - BTECH/10507/23
 -Aryan Nahata- BTECH/10823/23
 -Tejas Ganesh- BTECH/10381/23
 -Om Gupta- BTECH/10638/23
-
+```
 ---
 
 ## 📑 Table of Contents
