@@ -1,8 +1,16 @@
-# 🔍 ArXiv Topic Discovery — Research Paper Abstract Mining
+# 🔍 ArXiv Topic Discovery — Research Paper Abstract Mining (Assignment No. 1)
 
 > **Unsupervised topic modelling on 100 K+ arXiv abstracts using LDA, NMF, TF-IDF, and t-SNE — no labels required.**
 
 Exponential growth in research publications makes manual categorisation impractical. This project automatically discovers latent research themes directly from raw abstracts, enabling faster literature navigation, trend detection, and knowledge discovery.
+
+---
+**Project Members-**
+-Yash Rai- BTECH/10502/23
+-Tanishk Thakur - BTECH/10502/23
+-Aryan Nahata- BTECH/10823/23
+-Tejas Ganesh- BTECH/10381/23
+-Om Gupta- BTECH/10638/23
 
 ---
 
